@@ -4,7 +4,7 @@ class Recursion_Fibonacci {
     int Fibonacci(int n) {
         
         // base case
-        if ( n <= 1)
+        if (n <= 1)
         return n;
 
         // small calculation with recursive call
